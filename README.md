@@ -1,1 +1,2 @@
-＃我的网站：mangguoav.github.io/mg/
+＃我的网站:
+https://mangguoav.github.io/mg/
